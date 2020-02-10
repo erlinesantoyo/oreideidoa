@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://giefoozoht.gaojingbo.com/sitemap.xml
